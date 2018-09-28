@@ -1,0 +1,5 @@
+virtualenv/*
+config/local_setting.py
+.DS_Store
+*.pyc
+itchat.pkl
